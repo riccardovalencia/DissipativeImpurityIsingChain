@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "string_view": "cpp",
+        "functional": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "complex": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "*.tcc": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "unordered_map": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp"
+    }
+}
